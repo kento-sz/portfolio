@@ -5,7 +5,7 @@
 var canvasDiv = document.getElementById('particle-canvas');
 var options = {
   particleColor: '#CCC',
-  background: 'img/background.jpg',
+  background: '../img/background.jpg',
   interactive: true,
   speed: 'low',
   density: 'mediam'
